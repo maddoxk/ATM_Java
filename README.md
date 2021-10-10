@@ -1,5 +1,5 @@
 # ATM_Java
-ATM writen in Java. Stores information in level1 memory encrypted in SHA-512.
+ATM written in Java. Stores information in level1 memory encrypted in SHA-512.
 
 I wrote this in about 24 hours, so forgive me if I am leaking resources or have sloppy code.
 
